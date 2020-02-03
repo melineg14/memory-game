@@ -1,0 +1,39 @@
+h1{
+    text-align: center;
+    color: lightgray;
+}
+
+body{
+    padding-top: 1em;
+}
+
+.color-blocs {
+    margin: 1em;
+    width: 100px;
+    height: 90px;
+}
+.color-blocs:hover {
+    cursor: pointer;
+    box-shadow: 4px 2px lightsteelblue;
+}
+
+#button {
+    width: 900px;
+    margin: 1em auto 0 auto;
+}
+
+.hidden {
+    visibility: hidden;
+}
+
+.loser {
+    color: darkred;
+    text-align: center;
+    background-color: rgb(228, 95, 95);
+}
+
+.winner {
+    color: darkgreen;
+    text-align: center;
+    background-color: rgb(61, 155, 61);
+}
