@@ -30,10 +30,16 @@ body{
     color: darkred;
     text-align: center;
     background-color: rgb(228, 95, 95);
+    width: 300px;
+    border-radius: 5px;
+    margin: auto;
 }
 
 .winner {
     color: darkgreen;
     text-align: center;
-    background-color: rgb(61, 155, 61);
+    background-color: #28A745;
+    width: 200px;
+    border-radius: 5px;
+    margin: auto;
 }
